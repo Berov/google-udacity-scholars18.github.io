@@ -28,6 +28,31 @@
 #      
 # v- Add new projects to the end of the file
 
+
+- name: Darts Scoreboard 501 DO
+  banner: https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/blob/master/SecondProject-ScoreKeeperApp/Screenshots/screen3.PNG
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/SecondProject-ScoreKeeperApp
+   
+  description: |
+    The easiest 501 DO scoreboard
+    
+  author: Nikolai Berov
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Berov
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/nikolai-berov-067249159/
+
+  author_location: Sofia, Bulgaria
+  author_avatar: https://avatars0.githubusercontent.com/u/24354572?s=460&v=4
+
+
+
 - name: NewsReader
   banner: https://i.imgur.com/OV8xQfZ.jpg
   links:
